@@ -1,1 +1,1 @@
-# responsive_pratice
+# responsive_practice
