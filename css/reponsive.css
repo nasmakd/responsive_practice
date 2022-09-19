@@ -74,7 +74,7 @@
       color: transparent;
    }
    .allBtn{
-      display: block;
+      display: inline-block;
       line-height: 50px;
    }
    .sign{
